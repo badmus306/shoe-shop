@@ -50,12 +50,12 @@ A few screenshots of the project
 
 ### HomePage
 
-![alt text](https://github.com/badmus306/shoe-shop/raw/master/src/assets/images/screenshot_1.png "Logo Title Text 1")
+![alt text](https://github.com/badmus306/shoe-shop/raw/master/src/assets/images/Screenshot_1.png "Logo Title Text 1")
 
 
 ### Cart Page
 
-![alt text](https://github.com/badmus306/shoe-shop/raw/master/src/assets/images/screenshot_3.png "Logo Title Text 1")
+![alt text](https://github.com/badmus306/shoe-shop/raw/master/src/assets/images/Screenshot_2.png "Logo Title Text 1")
 
 
 
