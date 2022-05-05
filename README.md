@@ -2,7 +2,7 @@
 
 This instruction will get you a copy of how to get started with this application and guide you through the necessary steps to run the application on your development machine...
 
-## Prerequisites 
+## Prerequisites --
 
 The following are software needed to be installed on your system.
 
